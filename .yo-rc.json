@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "Redoc Demo",
+    "repo": "shrutisaini92/Redoc",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
